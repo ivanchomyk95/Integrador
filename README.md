@@ -1,2 +1,0 @@
-# Integrador
-Trabajo Practico Integrador
